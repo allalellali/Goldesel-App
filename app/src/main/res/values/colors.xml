@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main colors -->
+    <color name="dark_background">#FF1C1B1F</color>
+    <color name="orange">#FFFFA000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card_background">#FF2D2B30</color>
+    <color name="light_gray">#FFBDBDBD</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Additional colors -->
+    <color name="green_success">#FF4CAF50</color>
+    <color name="red_error">#FFF44336</color>
+    <color name="blue_info">#FF2196F3</color>
+</resources>

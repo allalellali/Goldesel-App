@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Goldesel Elsdorf</string>
+    <string name="pickup">Abholung</string>
+    <string name="delivery">Lieferung</string>
+    <string name="continue_btn">Weiter</string>
+    <string name="cart_total">Warenkorb: %1$s €</string>
+    <string name="order_confirm">Bestellung aufgeben</string>
+    <string name="back_to_menu">Zurück zur Karte</string>
+    <string name="order_title">Ihre Bestellung</string>
+    <string name="total_amount">Gesamtbetrag: %1$s €</string>
+    <string name="order_type">Bestellart: %1$s</string>
+    <string name="view_cart">Warenkorb ansehen</string>
+
+    <!-- Menu items -->
+    <string name="namiburger">Namiburger</string>
+    <string name="cheeseburger">Cheeseburger</string>
+    <string name="chili_cheeseburger">Chili-Cheeseburger</string>
+    <string name="bbq_burger">BBQ Burger</string>
+    <string name="italian_job">Italian Job Burger</string>
+    <string name="chicken_burger">Chicken Burger</string>
+    <string name="veggie_burger">Veggie Burger</string>
+    <string name="surf_turf">Surf-n-Turf</string>
+    <string name="hotdog_classic">Hotdog Classic</string>
+    <string name="cheesedog">Cheesedog</string>
+    <string name="chilidog">Chilidog</string>
+    <string name="bbq_dog">BBQ Dog</string>
+    <string name="French_burger">French Burger</string>
+    <string name="Original_Smashed_burger"> Original Smashed Burger</string>
+    <string name="Greek_burger">Greek Burger</string>
+    <string name="Chicken_Deluxe_burger">Chicken Deluxe Burger</string>
+    <string name="Gamba_Salat">Gamba Salat</string>
+    <string name="Chicken_Salad">Chicken Salad</string>
+
+    <string name="nuggets_2">Chicken Nuggets (2 Stück)</string>
+    <string name="nuggets_4">Chicken Nuggets (4 Stück)</string>
+    <string name="nuggets_6">Chicken Nuggets (6 Stück)</string>
+    <string name="nuggets_9">Chicken Nuggets (9 Stück)</string>
+
+    <!-- Sections -->
+    <string name="section_burgers">BURGER</string>
+    <string name="section_hotdogs">HOTDOGS</string>
+    <string name="section_nuggets">CHICKEN NUGGETS</string>
+</resources>
